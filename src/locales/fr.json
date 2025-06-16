@@ -1,0 +1,79 @@
+{
+	"translation": {
+		"app": {
+			"title": "ConciergePro",
+			"dashboard": "Tableau de bord",
+			"language": "Langue"
+		},
+		"navigation": {
+			"dashboard": "Tableau de bord",
+			"seasonal_rentals": "Locations Saisonnières",
+			"caretaking": "Gardiennage",
+			"logout": "Déconnexion"
+		},
+		"dashboard": {
+			"seasonal_calendar": "Calendrier Locations Saisonnières - Arrivées/Sorties",
+			"caretaking_calendar": "Calendrier Gardiennage - Visites & Séjours Propriétaires"
+		},
+		"seasonal_rentals": {
+			"title": "Locations Saisonnières",
+			"intervention_report": "Rapport d'intervention",
+			"general_info": "Informations générales",
+			"date": "Date de l'intervention",
+			"address": "Adresse de la propriété",
+			"guests_count": "Nombre de locataires attendus",
+			"arrival_time": "Heure d'arrivée prévue",
+			"departure_date": "Date de sortie des locataires",
+			"arrival_checklist": "État des lieux à l'arrivée",
+			"general_state": "État général du bien",
+			"bedrooms": "Nombre de chambres",
+			"bathrooms": "Nombre de SDB",
+			"toilets": "Nombre de WC",
+			"arrival_photos": "Photos à l'arrivée",
+			"detailed_checklist": "Checklist détaillée",
+			"bbq_state": "État du barbecue",
+			"terrace_state": "État des terrasses",
+			"trash_emptied": "Poubelles évacuées",
+			"oven_state": "État du four",
+			"dishwasher_emptied": "Lave-vaisselle vidé",
+			"windows_state": "État des baies vitrées",
+			"comments": "Commentaires",
+			"end_validation": "Validation de fin d'intervention",
+			"departure_photos": "Photos à la sortie",
+			"submit": "Enregistrer le rapport"
+		},
+		"caretaking": {
+			"title": "Gardiennage",
+			"inspection_report": "Rapport de visite d'inspection",
+			"general_info": "Informations générales",
+			"visit_date": "Date de la visite",
+			"owner_arrival": "Date d'arrivée prévue du propriétaire",
+			"owner_departure": "Date de départ prévue du propriétaire",
+			"people_count": "Nombre de personnes attendues",
+			"condition_report": "État des lieux détaillé",
+			"interior": "Intérieur",
+			"interior_comment": "Commentaire général sur l'état intérieur",
+			"interior_photos": "Photos de l'intérieur",
+			"exterior": "Extérieur",
+			"exterior_comment": "Commentaire général sur l'état extérieur",
+			"exterior_photos": "Photos de l'extérieur",
+			"specific_comments": "Commentaires spécifiques",
+			"add_comment": "Ajouter un commentaire",
+			"submit": "Enregistrer le rapport"
+		},
+		"common": {
+			"ok": "OK",
+			"average": "Moyen",
+			"bad": "Mauvais",
+			"na": "N/A",
+			"yes": "Oui",
+			"no": "Non",
+			"save": "Enregistrer",
+			"cancel": "Annuler",
+			"edit": "Modifier",
+			"delete": "Supprimer",
+			"add": "Ajouter",
+			"upload_photos": "Télécharger des photos"
+		}
+	}
+}

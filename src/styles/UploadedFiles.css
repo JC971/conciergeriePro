@@ -1,0 +1,8 @@
+.uploaded-files {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: var(--success-color);
+  color: white;
+  border-radius: var(--border-radius);
+  font-size: 0.875rem;
+}

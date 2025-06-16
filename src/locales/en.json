@@ -1,0 +1,79 @@
+{
+	"translation": {
+		"app": {
+			"title": "ConciergePro",
+			"dashboard": "Dashboard",
+			"language": "Language"
+		},
+		"navigation": {
+			"dashboard": "Dashboard",
+			"seasonal_rentals": "Seasonal Rentals",
+			"caretaking": "Caretaking",
+			"logout": "Logout"
+		},
+		"dashboard": {
+			"seasonal_calendar": "Seasonal Rentals Calendar - Arrivals/Departures",
+			"caretaking_calendar": "Caretaking Calendar - Visits & Owner Stays"
+		},
+		"seasonal_rentals": {
+			"title": "Seasonal Rentals",
+			"intervention_report": "Intervention Report",
+			"general_info": "General Information",
+			"date": "Intervention Date",
+			"address": "Property Address",
+			"guests_count": "Expected Number of Guests",
+			"arrival_time": "Expected Arrival Time",
+			"departure_date": "Guest Departure Date",
+			"arrival_checklist": "Arrival Condition Check",
+			"general_state": "General Property Condition",
+			"bedrooms": "Number of Bedrooms",
+			"bathrooms": "Number of Bathrooms",
+			"toilets": "Number of Toilets",
+			"arrival_photos": "Arrival Photos",
+			"detailed_checklist": "Detailed Checklist",
+			"bbq_state": "BBQ Condition",
+			"terrace_state": "Terrace Condition",
+			"trash_emptied": "Trash Emptied",
+			"oven_state": "Oven Condition",
+			"dishwasher_emptied": "Dishwasher Emptied",
+			"windows_state": "Windows Condition",
+			"comments": "Comments",
+			"end_validation": "End of Intervention Validation",
+			"departure_photos": "Departure Photos",
+			"submit": "Save Report"
+		},
+		"caretaking": {
+			"title": "Caretaking",
+			"inspection_report": "Inspection Visit Report",
+			"general_info": "General Information",
+			"visit_date": "Visit Date",
+			"owner_arrival": "Expected Owner Arrival Date",
+			"owner_departure": "Expected Owner Departure Date",
+			"people_count": "Expected Number of People",
+			"condition_report": "Detailed Condition Report",
+			"interior": "Interior",
+			"interior_comment": "General Interior Condition Comment",
+			"interior_photos": "Interior Photos",
+			"exterior": "Exterior",
+			"exterior_comment": "General Exterior Condition Comment",
+			"exterior_photos": "Exterior Photos",
+			"specific_comments": "Specific Comments",
+			"add_comment": "Add Comment",
+			"submit": "Save Report"
+		},
+		"common": {
+			"ok": "OK",
+			"average": "Average",
+			"bad": "Bad",
+			"na": "N/A",
+			"yes": "Yes",
+			"no": "No",
+			"save": "Save",
+			"cancel": "Cancel",
+			"edit": "Edit",
+			"delete": "Delete",
+			"add": "Add",
+			"upload_photos": "Upload Photos"
+		}
+	}
+}
